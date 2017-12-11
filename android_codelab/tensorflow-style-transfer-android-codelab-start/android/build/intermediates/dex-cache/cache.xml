@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="852264a166d6740a6fbb03094bc251307cd60be9">
+        <dex dex="/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2aa5932f8fa045bfbcec630582fa4463b6d5148b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22c459f5885a6b593da691665c57eccc1c01482d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dmidma/.android/build-cache/28785a49d17338b55e09acff04a6da7c6d1ab715/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54ea39bdbb77b46c6e5d6a7b11a6da797c7aac86/classes.dex" />
+    </item>
+
+</items>

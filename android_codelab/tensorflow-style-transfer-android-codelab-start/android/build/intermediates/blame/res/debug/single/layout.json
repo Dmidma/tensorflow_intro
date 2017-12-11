@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/res/layout/activity_camera.xml"
+    }
+]

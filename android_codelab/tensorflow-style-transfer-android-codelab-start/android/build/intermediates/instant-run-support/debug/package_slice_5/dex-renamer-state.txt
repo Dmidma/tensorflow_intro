@@ -1,0 +1,4 @@
+#Wed Sep 13 03:12:44 CEST 2017
+base.0=/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

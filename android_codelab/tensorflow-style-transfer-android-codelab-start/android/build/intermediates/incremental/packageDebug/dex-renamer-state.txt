@@ -1,0 +1,7 @@
+#Wed Sep 13 03:12:45 CEST 2017
+base.0=/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2aa5932f8fa045bfbcec630582fa4463b6d5148b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22c459f5885a6b593da691665c57eccc1c01482d/classes.dex
+base.1=/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22c459f5885a6b593da691665c57eccc1c01482d
+file.0=/old_home/machine_learning/tensorflow/android_tensor/tensorflow-style-transfer-android-codelab-start/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2aa5932f8fa045bfbcec630582fa4463b6d5148b/classes.dex
